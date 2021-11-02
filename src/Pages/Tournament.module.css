@@ -1,0 +1,13 @@
+.bg {background-image: url("../images/img1.jpg");
+    height:100%;
+    width:100%;
+    border:0.5px solid black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    }
+
+.card{display: flex;color:white;margin-bottom:15px;}
+
+.card1{display: flex;color:white;margin-bottom:70px;}

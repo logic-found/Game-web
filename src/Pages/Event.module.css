@@ -1,0 +1,11 @@
+.image{object-fit: cover;height:135px;width:180px;border:1px solid black}
+
+.bg{background-image: url("../images/i4.jpg");
+height: 100%;
+width: 100%;
+color:white;}
+
+.content{color: white;
+text-decoration: none;}
+
+.conten1{font-size: 30px;color: white;text-decoration: none;}
